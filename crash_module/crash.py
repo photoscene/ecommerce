@@ -1,4 +1,4 @@
-from odoo import doesntexists
+from odoo import doesntexist
 
 class Crash:
     pass
